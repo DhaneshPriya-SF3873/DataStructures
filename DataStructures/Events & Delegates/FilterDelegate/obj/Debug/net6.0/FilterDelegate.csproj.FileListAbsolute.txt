@@ -1,0 +1,15 @@
+D:\OOPS\FilterDelegate\bin\Debug\net6.0\FilterDelegate.exe
+D:\OOPS\FilterDelegate\bin\Debug\net6.0\FilterDelegate.deps.json
+D:\OOPS\FilterDelegate\bin\Debug\net6.0\FilterDelegate.runtimeconfig.json
+D:\OOPS\FilterDelegate\bin\Debug\net6.0\FilterDelegate.dll
+D:\OOPS\FilterDelegate\bin\Debug\net6.0\FilterDelegate.pdb
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.csproj.AssemblyReference.cache
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.AssemblyInfoInputs.cache
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.AssemblyInfo.cs
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.csproj.CoreCompileInputs.cache
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.dll
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\refint\FilterDelegate.dll
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.pdb
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\FilterDelegate.genruntimeconfig.cache
+D:\OOPS\FilterDelegate\obj\Debug\net6.0\ref\FilterDelegate.dll
